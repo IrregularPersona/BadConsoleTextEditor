@@ -27,7 +27,7 @@ void creditsDisplay() {
 	printf("1. F1 Key -> Used for saving text into a .txt file.\n");
 	printf("2. Enter Key -> Used to make newline in editor.\n");
 	printf("3. ESC Key -> Used to exit the editor.\n");
-	printf("3. DEL Key -> This is purely just a visual feature, and has no effect on the resulting saved file!\n\n");
+	printf("4. DEL Key -> This is purely just a visual feature, and has no effect on the resulting saved file!\n\n");
 	
 	printf("The max characters you can have within the editor is 5k characters.\nThere should be a way to make it consistently add up with malloc, but I'm lazy.\n\n");
 	printf("Made by Me\n");
